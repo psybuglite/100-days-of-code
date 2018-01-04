@@ -22,4 +22,4 @@
 **Today's Progress**: Continued coding the web UI.
 
 **Thoughts** Still trying to balance work and coding time.. almost didn't make it today.
-**Link to work:** [Robrainet](https://github.com/psybuglite?tab=overview&from=2018-01-03)
+**Link to work:** [Robrainet](https://github.com/psybuglite?tab=overview&from=2018-01-04)
