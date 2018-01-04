@@ -15,3 +15,11 @@
 
 **Thoughts** Making out time to code is quite the challenge for most people as I learnt today. I always kept it in mind that I MUST code for at least an hour today. So, I made out time to do just that.
 **Link to work:** [Robrainet](https://github.com/psybuglite?tab=overview&from=2018-01-03)
+
+
+### Day 2: January 4, Thursday
+
+**Today's Progress**: Continued coding the web UI.
+
+**Thoughts** Still trying to balance work and coding time.. almost didn't make it today.
+**Link to work:** [Robrainet](https://github.com/psybuglite?tab=overview&from=2018-01-03)
