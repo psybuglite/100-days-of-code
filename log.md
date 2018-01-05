@@ -23,3 +23,10 @@
 
 **Thoughts** Still trying to balance work and coding time.. almost didn't make it today.
 **Link to work:** [Robrainet](https://github.com/psybuglite?tab=overview&from=2018-01-04)
+
+### Day 3: January 5, Friday
+
+**Today's Progress**: Continued coding the web UI.
+
+**Thoughts** Again.. squeezing out time is a challenge. I don't want to continue squeezing out time. I want to spend more than a few hours on this.
+**Link to work:** [Robrainet](https://github.com/psybuglite?tab=overview&from=2018-01-05)
